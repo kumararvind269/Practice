@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import rx.Observable;
-import rx.Subscriber;
 import rx.Subscription;
 
 public class RxJavaDemo1 

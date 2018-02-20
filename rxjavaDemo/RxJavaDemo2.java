@@ -4,8 +4,6 @@ import java.util.concurrent.TimeUnit;
 
 import rx.Observable;
 import rx.Single;
-import rx.observables.ConnectableObservable;
-import rx.schedulers.Schedulers;
 
 public class RxJavaDemo2 {
 
