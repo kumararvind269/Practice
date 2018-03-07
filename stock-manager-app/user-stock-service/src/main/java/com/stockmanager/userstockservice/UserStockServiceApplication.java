@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 public class UserStockServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserStockServiceApplication.class, args);
+		SpringApplication. run(UserStockServiceApplication.class, args);
 	}
 	
 	@Bean
