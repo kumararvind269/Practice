@@ -10,8 +10,8 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class UserStockServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(UserStockServiceApplication.class, args);
+	public static void main(String[] args1) {
+		SpringApplication.run(UserStockServiceApplication.class, args1);
 	}
 	
 	@Bean
