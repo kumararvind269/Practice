@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 
 @EnableCircuitBreaker
 @SpringBootApplication
-public class UserStockServiceApplication {
+public class UserStockServiceApplication { 
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserStockServiceApplication.class, args);
